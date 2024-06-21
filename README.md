@@ -1,5 +1,5 @@
-<img src="https://www.canva.com/design/DAGIF0pFIXI/IFAuE-DIZQZ1lEqjwB3j8A/edit?utm_content=DAGIF0pFIXI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Girl in a jacket" width="500" height="600">
-<h1 align="center">Hi ☺️☺️, I'm Abhishek kushwaha</h1>
+
+<h1 align="center">Hi 👋👋, I'm Abhishek kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-web&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-web" /> </p>
