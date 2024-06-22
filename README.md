@@ -1,4 +1,4 @@
-![logo](https://github.com/Abhi-web/Image/blob/main/ezgif-5-570958470a.gif)
+![logo](https://github.com/Abhi-web/Image/blob/main/Black_and_Blue_Trendy_Gaming_Youtube_Banner_20240622_184447_0000%5B2%5D.png)
 <h1 align="center">Hi 👋👋, I'm Abhishek kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
