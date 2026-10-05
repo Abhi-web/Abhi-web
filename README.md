@@ -1,24 +1,168 @@
-![logo](https://github.com/Abhi-web/Image/blob/main/Black_and_Blue_Trendy_Gaming_Youtube_Banner_20240622_184447_0000%5B2%5D.png)
-<h1 align="center">Hi 👋👋, I'm Abhishek kushwaha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-web&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-web" /> </p>
+# 👋 Hi, I'm Abhishek Kushwaha
 
-- ?? How to reach me **abhishekku389@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+%26+Web+Developer;React+Developer;Modern+Web+Experience+Builder;BCA+Graduate" />
 
-- ? Fun fact **i am funny??**
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/it_abhishek_106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_abhishek_106" height="30" width="40" /></a>
+### Frontend & Web Developer | BCA Graduate | Building Modern Web Experiences
+
+<p>
+  <a href="https://github.com/Abhi-web">
+    <img src="https://img.shields.io/badge/GitHub-Abhi--web-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhishekku389@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=abhi-web&label=Profile%20Views&color=06b6d4&style=for-the-badge" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-web&show_icons=true&locale=en&layout=compact" alt="abhi-web" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi-web&show_icons=true&locale=en" alt="abhi-web" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-web&" alt="abhi-web" /></p>
+## 🚀 About Me
 
+I'm **Abhishek Kushwaha**, a BCA Graduate and Frontend & Web Developer from India.
+
+I enjoy building **modern, responsive and interactive web applications** with a strong focus on clean UI, performance and user experience.
+
+I'm interested in creating digital experiences that combine **technology, design and real-world usability**.
+
+> 💡 **My approach:** Build it clean. Make it useful. Keep improving.
+
+---
+
+## 🎯 What I Do
+
+| 💻 Development | 🎨 UI & UX | ☁️ Cloud & Tools |
+|---|---|---|
+| React Applications | Responsive Design | Git & GitHub |
+| JavaScript | Modern UI | Cloud Fundamentals |
+| REST API Integration | Interactive Interfaces | Deployment |
+| Component Architecture | Animations | Development Tools |
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github" />
+</p>
+
+---
+
+## 🌐 Featured Project
+
+### 💎 Dual-Domain Professional Portfolio
+
+A modern portfolio designed to showcase **both technical and professional capabilities** through a dynamic profile-switching experience.
+
+### ✨ Highlights
+
+- 🔄 Dual-profile switching
+- 💻 Technical / Web Development profile
+- 👔 Operations & Customer Support profile
+- 🎨 Modern glassmorphism UI
+- 🧊 Interactive 3D SVG icons
+- ⚡ Smooth Framer Motion animations
+- 📱 Fully responsive design
+- 📄 Interactive resume preview
+- 📬 Direct contact & social integration
+- ♿ Accessibility-focused interactions
+
+### 🧰 Built With
+
+`React` `Vite` `Tailwind CSS` `Framer Motion` `JavaScript` `SVG`
+
+---
+
+## 🧊 Interactive 3D Experience
+
+This portfolio uses **code-based 3D graphics** instead of relying on heavy 3D engines.
+
+### 3D Components
+
+- 🪪 3D Profile / AK Identity
+- 🛠️ 3D Skill Icons
+- 🌐 3D Social Icons
+- 💼 3D Experience Icons
+- 🎯 3D Competency Icons
+- 🧊 Interactive hover animations
+
+The goal is to create a **premium visual experience while keeping the website lightweight and responsive**.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhi-web&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-web&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-web&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Currently Improving
+
+- ⚛️ Advanced React Development
+- 🧩 Modern JavaScript
+- 🎨 UI/UX & Interactive Design
+- ☁️ Cloud & Deployment
+- 🏗️ Scalable Web Architecture
+- 🚀 Performance Optimization
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to:
+
+- 💼 Job opportunities
+- 🤝 Collaboration
+- 🚀 Interesting projects
+- 💡 Technology discussions
+
+<p align="center">
+
+<a href="mailto:abhishekku389@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abhishekku389%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Build. Learn. Improve. Repeat.
+
+**© 2026 Abhishek Kushwaha**
+
+*Engineered with React • Tailwind CSS • Framer Motion*
+
+</div>
